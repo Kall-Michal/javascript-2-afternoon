@@ -67,6 +67,15 @@ favoriteThings.book = "Harry Potter";
   Using dot notation, add another key (or property) to your backPack object that is named color, with the value being the color of your backpack.
 */
 
+let backPack = {
+
+};
+
+let item = "firstPocket";
+backPack.item = item;
+backPack.color = "black";
+
+
 
 
 
